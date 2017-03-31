@@ -12,3 +12,6 @@
 hs_err_pid*
 /SimpleExample/nbproject/private/
 /SimpleExample/build/
+/MenusAndToolbars/nbproject/private/
+/MenusAndToolbars/build/
+/MenusAndToolbars/dist/
